@@ -1,4 +1,4 @@
-# wocfmp
+# wocfmp - we often crave for more planets
 
 KSP2'S Star System pack
 
