@@ -44,7 +44,9 @@ KSP2's MAJOR star system pack, planned to release with an additional 7 star syst
 
 
 
-##### **How to install**
+
+
+#### How to install
 
 1\. Install and extract the file into your local computer directory
 
